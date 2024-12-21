@@ -1,1 +1,3 @@
 # Real-time-Fruit-Detection-Using-Deep-Neural-Networks
+this project is to classify whether an object captured by the webcam of a laptop is a banana or an apple using deep learning models. Specifically, two models were used: Classical ANN and CNN. The performance of these models was compared on a dataset of 120 images, with 60 images of bananas and 60 images of apples.
+To make the project more practical and interactive, the models were integrated with the laptop's webcam. The webcam was used to capture images of objects, and the models were used to predict whether the object was a banana or an apple. The predicted label was then displayed on the screen, allowing the user to interact with the project in real-time.
